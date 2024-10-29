@@ -47,7 +47,13 @@ footer{
     text-align: center;
     color:crimson;
 }
-
+img {
+    width: 720px;
+    
+}
+.car-img{
+    text-align: center;
+}
 
 
 
