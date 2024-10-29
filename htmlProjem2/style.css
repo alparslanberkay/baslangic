@@ -13,14 +13,24 @@
     text-align: center;
 
 }
+.paragraf{
+    text-align: center;
+}
 a {
     text-decoration: none;
 }
-ul{
+.nav-line{
     list-style:none;
 }
 .navbar-items{
     display: inline;
     margin: 10px;
     position: relative;
+}
+.car-models{
+    text-align: center;
+}
+footer{
+    
+    text-align: center;
 }
