@@ -1,0 +1,26 @@
+.nav-baslik{
+    color: crimson;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 50px;
+    
+    
+}
+.navbar-container{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: brown;
+    text-align: center;
+
+}
+a {
+    text-decoration: none;
+}
+ul{
+    list-style:none;
+}
+.navbar-items{
+    display: inline;
+    margin: 10px;
+    position: relative;
+}
