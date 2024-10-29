@@ -9,9 +9,11 @@
 .navbar-container{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
-    color: brown;
+    
     text-align: center;
-    background-color: pink;
+    height: 40px;
+    background-color:antiquewhite;
+    
 
 }
 .paragraf{
@@ -22,11 +24,14 @@ a {
 }
 .nav-line{
     list-style:none;
+    
 }
 .navbar-items{
     display: inline;
     margin: 10px;
     position: relative;
+    color:darkred;
+
 }
 .car-models{
     text-align: center;
@@ -35,3 +40,15 @@ footer{
 
     text-align: center;
 }
+
+/* Arabalar html css Start */
+
+.baslik1-arabalar{
+    text-align: center;
+    color:crimson;
+}
+
+
+
+
+/* Arabalar html css End */
