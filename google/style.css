@@ -1,0 +1,17 @@
+.logo-img{
+    text-align: center;
+    margin-top: 10%;
+}
+.gray-field{
+    background-color: lightgray;
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+.gray-text{
+    text-align: center;
+    padding: 5px;
+    
+}
