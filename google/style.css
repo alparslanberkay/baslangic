@@ -15,3 +15,50 @@
     padding: 5px;
     
 }
+
+
+
+.container-green{
+    width: 91%;
+    text-align: center;
+    padding: 2px;
+    margin-left: 77px;
+
+}
+
+.green-box1{
+    
+    
+    width: 36%;
+    height: 80px;
+    background: #7EE5DA;
+    float: left;
+    margin-right: 4px;
+    padding-top: 10px;
+}
+
+.green-box2{
+    width: 28%;
+    height: 80px;
+    background: #7EE5DA;
+    float: left;
+    margin-right: 4px;
+    padding-top: 10px;
+}
+
+.green-box3{
+    width: 35%;
+    height: 80px;
+    background: #7EE5DA;
+    float: left;
+    margin-right: 2px;
+    padding-top: 10px;
+    
+}
+.clear{
+    clear: both;
+    text-align: center;
+}
+
+
+
