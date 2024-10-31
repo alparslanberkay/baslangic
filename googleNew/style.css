@@ -13,10 +13,39 @@
     text-align: center;
     padding: 5px 5px;
     text-decoration: none;
+    float: right;
+    margin-right: 10px;
   }
+  .headerlileft a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 5px 5px;
+    text-decoration: none;
+    margin-right: 10px;
+    float: left;
+    margin-top: 10px;
+    
+  }
+  .headerlileft a:hover {
+    text-decoration: underline;
+  }
+  
   
   .headerli a:hover {
     text-decoration: underline;
+  }
+  .sign a { 
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    float: right;
+    margin-right: 10px;
+    margin-top: 7px;
+    background-color: rgb(69, 69, 238);
+    border-radius: 10px;
   }
   
   .container {
@@ -45,6 +74,7 @@
     display: flex;
     padding: 5px 8px 0 16px;
     padding-left: 14px;
+    
   }
   
   .search-img {
@@ -52,6 +82,8 @@
     align-items: center;
     padding-right: 13px;
     margin-top: -5px;
+    
+    
   }
   
   .search-img span {
@@ -63,6 +95,11 @@
     fill: currentColor;
     line-height: 24px;
     position: relative;
+    
+  }
+
+  .voice{
+    float: left;
   }
   
   .input-enter {
@@ -79,6 +116,7 @@
     line-height: 34px;
     height: 34px !important;
     display: block;
+     
   }
   
   .input {
@@ -103,6 +141,9 @@
     appearance: textfield;
     cursor: text;
   }
+  .buttons{
+    text-align:center ;
+  }
   
   .googlesearch {
     margin: 11px 4px;
@@ -112,6 +153,7 @@
     text-align: center;
     cursor: pointer;
     user-select: none;
+    
   }
   
   .feelinglucky {
@@ -134,10 +176,14 @@
     width: 100%;
     margin-left: -8px;
     line-height: 10px;
+    list-style: none; /* footerdaki li etiketlerinin noktaları kalktı*/
+
+    
   }
   
   .footerli {
     float: left;
+    
   }
   
   .footerli a {
@@ -154,4 +200,5 @@
   
   .footerli a:hover {
     text-decoration: underline;
+    
   }
