@@ -97,9 +97,11 @@
     position: relative;
     
   }
-
-  .voice{
+.search-button{
     float: left;
+}
+  .voice{
+    float: right;
   }
   
   .input-enter {
