@@ -1,0 +1,44 @@
+.container {
+    max-width: 80%;
+    margin: 0 auto;
+  }
+.navbar-container{
+    background: rgb(241, 218, 5);
+    display: flex;
+    justify-content: space-between;
+    align-items:normal;
+    padding: 20px;
+    height: 150px;
+    border-bottom: 2px solid black;
+    
+}
+.logo-isim{
+    margin: 0px 6%;
+    
+}
+.navbar-buttons {
+    
+    list-style: none;
+    display: flex;
+}
+.navbar-buttons>li {
+    
+    margin: 0 10px;
+
+}
+.navbar-buttons>li>a {
+    text-decoration: none;
+    color: black ;
+}
+ul li a:hover {
+    padding: 12px 20px; /* Üst-alt 10px, sağ-sol 20px padding */
+    background-color: blue;
+    border-radius: 30px;
+    color: white;
+}
+
+.btn-dark{
+    width: 100px;
+}
+
+    
