@@ -63,6 +63,7 @@
     margin: 0 auto;
     margin-top: -77px;
     width: 582px;
+    border-radius: 30px;
   }
   
   .search-area:hover {
@@ -99,9 +100,10 @@
   }
 .search-button{
     float: left;
+    padding: 5px;
 }
   .voice{
-    float: right;
+    float:right;
   }
   
   .input-enter {
@@ -114,14 +116,16 @@
     color: transparent;
     flex: 100%;
     white-space: pre;
-    font: 16px arial, sans-serif;
+    font: 14px arial, sans-serif;
     line-height: 34px;
     height: 34px !important;
     display: block;
+    
      
   }
   
   .input {
+    
     margin: 0;
     padding: 0;
     color: rgba(0, 0, 0, 0.87);
@@ -142,6 +146,9 @@
     text-align: start;
     appearance: textfield;
     cursor: text;
+    border-radius: 15px;
+    border: none;
+    
   }
   .buttons{
     text-align:center ;
