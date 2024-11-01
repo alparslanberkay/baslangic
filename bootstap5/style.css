@@ -15,3 +15,24 @@
 .asagi{
     margin-top: 15%;
 }
+.navbar{
+    height: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.navbar-brand{
+    background-color: rgb(143, 11, 11); 
+    border-radius: 20px;
+    width: 250px;
+    
+    text-align: center;
+    font-family:"Poly", serif;
+    padding: 5px;
+    margin: 10px;
+    border: none;
+}
+.navbar-brand:hover {
+    background-color: black;
+    color: #fff;
+    font-family:"Poly", serif;
+}
