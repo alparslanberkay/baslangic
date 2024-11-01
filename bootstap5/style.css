@@ -1,8 +1,15 @@
+
 .foto{
     background-image: url(img/thumb-1920-771190.jpg); 
     background-size: cover;
-    background-position:center -200px;
+    background-position:center top -250px;
+    
 }
+
+.bottom-space {
+    height: 100px; /* Boşluğun yüksekliği */
+  }
+
 
 
 .kanser{
@@ -51,4 +58,15 @@
 }
 .jumbotron{
     color:#ffd6d6;
+}
+.mycompany{
+    text-align: center;
+    color: #fff;
+    background-position:  right;
+    margin-top: 50vh;
+    place-items: end;
+    
+    
+    
+    
 }
