@@ -1,3 +1,10 @@
+.foto{
+    background-image: url(img/thumb-1920-771190.jpg); 
+    background-size: cover;
+    background-position:center -200px;
+}
+
+
 .kanser{
     text-align: center;
     border-radius: 50px;
