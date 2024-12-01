@@ -44,3 +44,12 @@
     text-decoration: none;
     color: lightgrey;
   }
+
+  .navbar {
+    height: 54px; /* Sabit yükseklik belirlemek için */
+    background-color: white;
+}
+.logo{
+    
+    margin-left: 192px;
+}
