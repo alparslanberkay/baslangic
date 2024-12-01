@@ -2,15 +2,9 @@
 .foto{
     background-image: url(img/thumb-1920-771190.jpg); 
     background-size: cover ;
-    background-position:center top -200px;
+    background-position:center top -300px;
     
 }
-
-.bottom-space {
-    height: 100px; /* Boşluğun yüksekliği */
-  }
-
-
 
 .kanser{
     text-align: center;
@@ -62,11 +56,15 @@
 .mycompany{
     text-align: center;
     color: #fff;
-    background-position:  right;
-    margin-top: 50vh;
+    background-position:  bottom;
+    margin-top: 10vh;
     place-items: end;
-    
-    
-    
+    position: relative;
     
 }
+.bottom-space {
+    height: 100px; /* Boşluğun yüksekliği */
+  }
+
+
+  
